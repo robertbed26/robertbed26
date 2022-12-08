@@ -12,6 +12,8 @@ I am seeking a senior software position to contribute for another big changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd56) 
 ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd56) 
+
+
 *I extremely love to work with the **OOP** languages and i mostly worked with the **MVC, MVVM** software design models with the above languages in my past projects.  I can write the quality code with the unit test cases  on all of above languages. 
 In my development experience, learning one programming language  correctly & in-depth give a great opportunity to learn other similar languages - classes, object and operators, statements can work similarly.* 
 
