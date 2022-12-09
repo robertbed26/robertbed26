@@ -52,7 +52,7 @@ In my development experience, learning one programming language  correctly & in-
 
 *Finally, I digged into **Typescript** and started building the UI using the **React/Vue**  and other **styling frameworks**, **state management libraries** and  helped a lot of the large startups like **ByteSpree** for their product development using the Typescript stack*
 
-### Database, data schema and cloud service, other AI related libraries
+### Database, data schema and cloud services, others are being used for the software as a service development (AI, Real-Time, Data visualization)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
