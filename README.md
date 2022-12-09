@@ -50,7 +50,7 @@ In my development experience, learning one programming language  correctly & in-
 
 *Actually, i started my development for front end with simple **Javascript**, and since 2014, i saw the Typescript and it's benefits for large scall application, it was based on the OOP. Wow, that was very exciting.*
 
-*Finally, I digged into **Typescript** and started building the UI using the **React/Vue/Angular**  and other **styling frameworks**, **state management libraries** and  helped a lot of the large startups like **TruckSpy Inc** and **Trinax Inc** for their product development using the Typescript stack*
+*Finally, I digged into **Typescript** and started building the UI using the **React/Vue**  and other **styling frameworks**, **state management libraries** and  helped a lot of the large startups like **ByteSpree** for their product development using the Typescript stack*
 
 ### Database, data schema and cloud service, other AI related libraries
 
