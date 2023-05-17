@@ -1,7 +1,7 @@
 
 # 💫About Me :
 Hi, I am **Robert**, Senior Software engineer, Solution architect who has more than 9+ years of software engineering for web development, back-end and Devops engineering.
-I've been primarily working on PHP, Python and JavaScript stack for website or application development, ETL tool, web scraping tool development using these programming lanauges and I had contributed to the large & exciting companies to build their application.
+I've been primarily working on PHP, Python and JavaScript, sometimes Clojure stack for website or application development, ETL tool, web scraping tool development using these programming lanauges and I had contributed to the large & exciting companies to build their application.
 
 I am seeking a senior software position to contribute for another big changes.
 
@@ -12,7 +12,7 @@ I am seeking a senior software position to contribute for another big changes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd56) 
 ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd56) 
-
+![Clojure](https://img.shields.io/badge/clojure-3670A0?style=for-the-badge&logo=clojure&logoColor=ffdd56) 
 
 *I extremely love to work with the **OOP** languages and i mostly worked with the **MVC, MVVM** software design models with the above languages in my past projects.  I can write the quality code with the unit test cases  on all of above languages. 
 In my development experience, learning one programming language  correctly & in-depth give a great opportunity to learn other similar languages - classes, object and operators, statements can work similarly.* 
@@ -28,7 +28,7 @@ In my development experience, learning one programming language  correctly & in-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
-
+![Clojure](https://img.shields.io/badge/clojure-3670A0?style=for-the-badge&logo=clojure&logoColor=ffdd56) 
 
 
 *Oops!, how a man could have an expertise in all of frameworks?*
@@ -36,8 +36,10 @@ In my development experience, learning one programming language  correctly & in-
 *Well, frameworks are based on just programming languages, if you are well-versed with the programming lanugages, codebase architect, software architect design, then it is not difficult job to learn the new frameworks. But of course, you need to have a **passion** before hitting something*
 
 ### Front end development
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![ClojureScript](https://img.shields.io/badge/clojurescript-3670A0?style=for-the-badge&logo=clojurescript&logoColor=ffdd56) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
